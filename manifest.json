@@ -7,9 +7,9 @@
   "theme_color": "#121212",
   "icons": [
     {
-      "src": "IMG_20251011_075450_593.webp",
+      "src": "logo-webgame-192x192.png",
       "sizes": "192x192",
-      "type": "image/webp"
+      "type": "image/png"
     },
     {
       "src": "IMG_20251011_075450_593.webp",
