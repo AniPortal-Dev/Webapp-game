@@ -1,0 +1,20 @@
+{
+  "name": "The Mine",
+  "short_name": "The Mine",
+  "start_url": "https://aniportal-dev.github.io/Webapp-game/",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#121212",
+  "icons": [
+    {
+      "src": "IMG_20251011_075450_593.webp",
+      "sizes": "192x192",
+      "type": "image/webp"
+    },
+    {
+      "src": "IMG_20251011_075450_593.webp",
+      "sizes": "512x512",
+      "type": "image/webp"
+    }
+  ]
+}
